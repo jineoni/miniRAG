@@ -1,1 +1,6 @@
-numpy
+arxiv>=2.2,<3
+pymupdf>=1.26,<2
+langchain-text-splitters>=1,<2
+sentence-transformers>=5,<6
+chromadb>=1.1,<2
+streamlit>=1.50,<2

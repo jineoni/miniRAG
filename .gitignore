@@ -27,3 +27,7 @@ htmlcov/
 
 # OS
 .DS_Store
+
+# Local credentials and research data
+.env
+data/
